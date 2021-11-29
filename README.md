@@ -1,15 +1,15 @@
-## Hi! I Am Ilham Rofi'i
+## 👋 Hi! I Am Ilham Rofi'i
 
-### A Noob Programmer
-- I’m a Student
-- 18th Year Old
-- Still learning Python, Java and Dart
-- Excited to Telegram Bot
+### 👨‍💻 A Noob Programmer
+- 👨‍🎓 I’m a Student
+- 📅 18th Year Old
+- 🖥️ Still learning Python, Java and Dart
+- 🤖 Excited to Telegram Bot
 
-## Languages
-- Python
+## ✍️ Languages
+- 🐍 Python
 
-## Tools
+## 🔧 Tools
 - Windows
 - Android
 - [Heroku](https://heroku.com)
@@ -21,3 +21,6 @@
 ### 📫 Social Media
 - #### Quora [Ilham Rofii](https://id.quora.com/profile/Ilham-Rofii-3/)
 - #### Telegram [@LhRfi](https://t.me/LhRfi)
+
+### 👥 Join my Telegram Channel
+#### Telegram [@IRBotsUpdate](https://t.me/IRBotsUpdate)
