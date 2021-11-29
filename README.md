@@ -10,8 +10,10 @@
 - 🐍 Python
 
 ## 🔧 Tools
-- Windows
-- Android
+- Windows 10
+- Android 8
+- [Github](https://github.com)
+- [Telegram](https://telegram.org)
 - [Heroku](https://heroku.com)
 - [VSCode](https://code.visualstudio.com)
 - [MongoDB](https://cloud.mongodb.com)
