@@ -20,6 +20,32 @@
 - [Google Cloud Console](https://cloud.google.com)
 - [CloudFlare](https://cloudflare.com)
 
+## 📋 Bot List 📋
+🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰
+📂 Files Store / Manager
+🔵 [@ftdlirbot] (https://t.me/ftdlirbot)
+🔵 [@archiverirbot]
+🔵 [@unarchiverirbot]
+🔵 [@animationinlineirbot]
+🔵 [@filmdubindo_bot]
+🔵 [@torrentsearchirbot]
+
+📹 Files Editor and Tool
+🔵 [@pdftoolsirbot]
+🔵 [@ocrirbot]
+🔵 [@imgeditirbot]
+🔵 [@renameirbot]
+🔵 [@mediaextractorirbot]
+🔵 [@vidmuxirbot]
+🔵 [@vidmergirbot]
+
+👨‍💻 Download Manager
+🔵 [@urlupirbot]
+🔵 [@urlup02irbot]
+🔵 [@ytpldlirbot]
+
+🎶  Music
+🔵 @lyricsirbot
 ### 📫 Social Media
 - #### Quora [Ilham Rofii](https://id.quora.com/profile/Ilham-Rofii-3/)
 - #### Telegram [@LhRfi](https://t.me/LhRfi)
