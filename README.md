@@ -22,9 +22,7 @@
 
 ## 📋 Bot List 📋
 
-🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰
-
-📂 Files Store / Manager
+#### 📂 Files Store / Manager 📂
 
 🔵 [@ftdlirbot](https://t.me/ftdlirbot)
 
@@ -39,7 +37,7 @@
 🔵 [@torrentsearchirbot]
 
 
-📹 Files Editor and Tool
+#### 📹 Files Editor and Tool 📹
 
 🔵 [@pdftoolsirbot]
 
@@ -56,7 +54,7 @@
 🔵 [@vidmergirbot]
 
 
-👨‍💻 Download Manager
+#### 👨‍💻 Download Manager 👨‍💻
 
 🔵 [@urlupirbot]
 
@@ -65,7 +63,7 @@
 🔵 [@ytpldlirbot]
 
 
-🎶  Music
+#### 🎶  Music 🎶
 
 🔵 @lyricsirbot
 
