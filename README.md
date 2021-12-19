@@ -29,27 +29,42 @@
 🔵 [@ftdlirbot](https://t.me/ftdlirbot)
 
 🔵 [@archiverirbot](https://t.me/archiverirbot)
+
 🔵 [@unarchiverirbot]
+
 🔵 [@animationinlineirbot]
+
 🔵 [@filmdubindo_bot]
+
 🔵 [@torrentsearchirbot]
 
 📹 Files Editor and Tool
+
 🔵 [@pdftoolsirbot]
+
 🔵 [@ocrirbot]
+
 🔵 [@imgeditirbot]
+
 🔵 [@renameirbot]
+
 🔵 [@mediaextractorirbot]
+
 🔵 [@vidmuxirbot]
+
 🔵 [@vidmergirbot]
 
 👨‍💻 Download Manager
 🔵 [@urlupirbot]
+
 🔵 [@urlup02irbot]
+
 🔵 [@ytpldlirbot]
 
 🎶  Music
+
 🔵 @lyricsirbot
+
 ### 📫 Social Media
 - #### Quora [Ilham Rofii](https://id.quora.com/profile/Ilham-Rofii-3/)
 - #### Telegram [@LhRfi](https://t.me/LhRfi)
