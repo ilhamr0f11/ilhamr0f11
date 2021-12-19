@@ -21,10 +21,14 @@
 - [CloudFlare](https://cloudflare.com)
 
 ## 📋 Bot List 📋
+
 🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰
+
 📂 Files Store / Manager
-🔵 [@ftdlirbot] (https://t.me/ftdlirbot)
-🔵 [@archiverirbot]
+
+🔵 [@ftdlirbot](https://t.me/ftdlirbot)
+
+🔵 [@archiverirbot](https://t.me/archiverirbot)
 🔵 [@unarchiverirbot]
 🔵 [@animationinlineirbot]
 🔵 [@filmdubindo_bot]
